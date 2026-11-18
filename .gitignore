@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Local copy contains only an LFS pointer; video content is unavailable.
+vedio_demo.zip

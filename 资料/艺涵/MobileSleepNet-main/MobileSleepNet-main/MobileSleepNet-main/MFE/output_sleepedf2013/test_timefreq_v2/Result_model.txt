@@ -1,0 +1,616 @@
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8718	0.7976	0.8237	0.9457	0.4020	0.9034	0.8982	0.8389
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9475    0.9440    0.9457      3979
+          N1     0.7254    0.2780    0.4020      1482
+          N2     0.8896    0.9177    0.9034      7263
+          N3     0.8862    0.9104    0.8982      2165
+         REM     0.7609    0.9348    0.8389      2805
+
+    accuracy                         0.8718     17694
+   macro avg     0.8419    0.7970    0.7976     17694
+weighted avg     0.8681    0.8718    0.8601     17694
+
+Confusion matrix:
+[[3756   75   64    4   80]
+ [ 185  412  417    7  461]
+ [  12   61 6665  242  283]
+ [   1    0  193 1971    0]
+ [  10   20  153    0 2622]]
+
+    Accuracy	 0.8718209562563581
+ Cohen Kappa	 0.8236569213213273
+    F1-Score	 0.7976344852622174 	Average = macro
+   Precision	 0.8419237283641872 	Average = macro
+      Recall	 0.7969550623194805 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8718	0.7976	0.8237	0.9457	0.4020	0.9034	0.8982	0.8389
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9475    0.9440    0.9457      3979
+          N1     0.7254    0.2780    0.4020      1482
+          N2     0.8896    0.9177    0.9034      7263
+          N3     0.8862    0.9104    0.8982      2165
+         REM     0.7609    0.9348    0.8389      2805
+
+    accuracy                         0.8718     17694
+   macro avg     0.8419    0.7970    0.7976     17694
+weighted avg     0.8681    0.8718    0.8601     17694
+
+Confusion matrix:
+[[3756   75   64    4   80]
+ [ 185  412  417    7  461]
+ [  12   61 6665  242  283]
+ [   1    0  193 1971    0]
+ [  10   20  153    0 2622]]
+
+    Accuracy	 0.8718209562563581
+ Cohen Kappa	 0.8236569213213273
+    F1-Score	 0.7976344852622174 	Average = macro
+   Precision	 0.8419237283641872 	Average = macro
+      Recall	 0.7969550623194805 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8619	0.7569	0.8097	0.9314	0.2397	0.8699	0.8810	0.8624
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9283    0.9346    0.9314      4325
+          N1     0.3376    0.1858    0.2397       845
+          N2     0.8518    0.8889    0.8699      7117
+          N3     0.8680    0.8944    0.8810      2330
+         REM     0.8662    0.8586    0.8624      3438
+
+    accuracy                         0.8619     18055
+   macro avg     0.7704    0.7525    0.7569     18055
+weighted avg     0.8509    0.8619    0.8552     18055
+
+Confusion matrix:
+[[4042  113   97    5   68]
+ [ 103  157  363    4  218]
+ [ 164  152 6326  305  170]
+ [  11    6  229 2084    0]
+ [  34   37  412    3 2952]]
+
+    Accuracy	 0.8618665189698145
+ Cohen Kappa	 0.809674292440785
+    F1-Score	 0.7568898879180432 	Average = macro
+   Precision	 0.7703804254680688 	Average = macro
+      Recall	 0.752456459923347 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8619	0.7569	0.8097	0.9314	0.2397	0.8699	0.8810	0.8624
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9283    0.9346    0.9314      4325
+          N1     0.3376    0.1858    0.2397       845
+          N2     0.8518    0.8889    0.8699      7117
+          N3     0.8680    0.8944    0.8810      2330
+         REM     0.8662    0.8586    0.8624      3438
+
+    accuracy                         0.8619     18055
+   macro avg     0.7704    0.7525    0.7569     18055
+weighted avg     0.8509    0.8619    0.8552     18055
+
+Confusion matrix:
+[[4042  113   97    5   68]
+ [ 103  157  363    4  218]
+ [ 164  152 6326  305  170]
+ [  11    6  229 2084    0]
+ [  34   37  412    3 2952]]
+
+    Accuracy	 0.8618665189698145
+ Cohen Kappa	 0.809674292440785
+    F1-Score	 0.7568898879180432 	Average = macro
+   Precision	 0.7703804254680688 	Average = macro
+      Recall	 0.752456459923347 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8003	0.7043	0.7232	0.9065	0.2396	0.8359	0.7732	0.7663
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9170    0.8963    0.9065      5534
+          N1     0.3987    0.1712    0.2396      1746
+          N2     0.8067    0.8672    0.8359      7465
+          N3     0.7681    0.7784    0.7732      1557
+         REM     0.7097    0.8329    0.7663      3111
+
+    accuracy                         0.8003     19413
+   macro avg     0.7200    0.7092    0.7043     19413
+weighted avg     0.7828    0.8003    0.7862     19413
+
+Confusion matrix:
+[[4960  245  107    4  218]
+ [ 222  299  821    6  398]
+ [  55  136 6474  356  444]
+ [   1    0  344 1212    0]
+ [ 171   70  279    0 2591]]
+
+    Accuracy	 0.8002884664915263
+ Cohen Kappa	 0.723191438835429
+    F1-Score	 0.7043080200150227 	Average = macro
+   Precision	 0.7200230521193559 	Average = macro
+      Recall	 0.7092088980501845 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8003	0.7043	0.7232	0.9065	0.2396	0.8359	0.7732	0.7663
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9170    0.8963    0.9065      5534
+          N1     0.3987    0.1712    0.2396      1746
+          N2     0.8067    0.8672    0.8359      7465
+          N3     0.7681    0.7784    0.7732      1557
+         REM     0.7097    0.8329    0.7663      3111
+
+    accuracy                         0.8003     19413
+   macro avg     0.7200    0.7092    0.7043     19413
+weighted avg     0.7828    0.8003    0.7862     19413
+
+Confusion matrix:
+[[4960  245  107    4  218]
+ [ 222  299  821    6  398]
+ [  55  136 6474  356  444]
+ [   1    0  344 1212    0]
+ [ 171   70  279    0 2591]]
+
+    Accuracy	 0.8002884664915263
+ Cohen Kappa	 0.723191438835429
+    F1-Score	 0.7043080200150227 	Average = macro
+   Precision	 0.7200230521193559 	Average = macro
+      Recall	 0.7092088980501845 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8218	0.7452	0.7542	0.9121	0.3557	0.8617	0.7734	0.8232
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9204    0.9039    0.9121      4901
+          N1     0.4195    0.3087    0.3557      1613
+          N2     0.8376    0.8873    0.8617      6732
+          N3     0.8804    0.6895    0.7734      1559
+         REM     0.7627    0.8940    0.8232      2632
+
+    accuracy                         0.8218     17437
+   macro avg     0.7641    0.7367    0.7452     17437
+weighted avg     0.8147    0.8218    0.8153     17437
+
+Confusion matrix:
+[[4430  281   89    7   94]
+ [ 277  498  495    1  342]
+ [  45  280 5973  138  296]
+ [   4    1  479 1075    0]
+ [  57  127   95    0 2353]]
+
+    Accuracy	 0.8217583299879566
+ Cohen Kappa	 0.7542399174767165
+    F1-Score	 0.7452116945072161 	Average = macro
+   Precision	 0.7641456179867525 	Average = macro
+      Recall	 0.7366870163323146 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8218	0.7452	0.7542	0.9121	0.3557	0.8617	0.7734	0.8232
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9204    0.9039    0.9121      4901
+          N1     0.4195    0.3087    0.3557      1613
+          N2     0.8376    0.8873    0.8617      6732
+          N3     0.8804    0.6895    0.7734      1559
+         REM     0.7627    0.8940    0.8232      2632
+
+    accuracy                         0.8218     17437
+   macro avg     0.7641    0.7367    0.7452     17437
+weighted avg     0.8147    0.8218    0.8153     17437
+
+Confusion matrix:
+[[4430  281   89    7   94]
+ [ 277  498  495    1  342]
+ [  45  280 5973  138  296]
+ [   4    1  479 1075    0]
+ [  57  127   95    0 2353]]
+
+    Accuracy	 0.8217583299879566
+ Cohen Kappa	 0.7542399174767165
+    F1-Score	 0.7452116945072161 	Average = macro
+   Precision	 0.7641456179867525 	Average = macro
+      Recall	 0.7366870163323146 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8564	0.7469	0.7877	0.9541	0.4272	0.8748	0.6522	0.8263
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9522    0.9560    0.9541      7644
+          N1     0.5493    0.3495    0.4272      2103
+          N2     0.8362    0.9170    0.8748      7437
+          N3     0.7591    0.5717    0.6522       474
+         REM     0.8027    0.8513    0.8263      2179
+
+    accuracy                         0.8564     19837
+   macro avg     0.7799    0.7291    0.7469     19837
+weighted avg     0.8450    0.8564    0.8472     19837
+
+Confusion matrix:
+[[7308  259   53    1   23]
+ [ 255  735  896    0  217]
+ [  51  265 6820   85  216]
+ [   2    1  200  271    0]
+ [  59   78  187    0 1855]]
+
+    Accuracy	 0.8564299037152795
+ Cohen Kappa	 0.7877407280885579
+    F1-Score	 0.7469138038242205 	Average = macro
+   Precision	 0.7798980880558093 	Average = macro
+      Recall	 0.7291238011925755 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8564	0.7469	0.7877	0.9541	0.4272	0.8748	0.6522	0.8263
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9522    0.9560    0.9541      7644
+          N1     0.5493    0.3495    0.4272      2103
+          N2     0.8362    0.9170    0.8748      7437
+          N3     0.7591    0.5717    0.6522       474
+         REM     0.8027    0.8513    0.8263      2179
+
+    accuracy                         0.8564     19837
+   macro avg     0.7799    0.7291    0.7469     19837
+weighted avg     0.8450    0.8564    0.8472     19837
+
+Confusion matrix:
+[[7308  259   53    1   23]
+ [ 255  735  896    0  217]
+ [  51  265 6820   85  216]
+ [   2    1  200  271    0]
+ [  59   78  187    0 1855]]
+
+    Accuracy	 0.8564299037152795
+ Cohen Kappa	 0.7877407280885579
+    F1-Score	 0.7469138038242205 	Average = macro
+   Precision	 0.7798980880558093 	Average = macro
+      Recall	 0.7291238011925755 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8322	0.7724	0.7697	0.9130	0.3727	0.8430	0.8436	0.8894
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9028    0.9234    0.9130      7152
+          N1     0.4484    0.3189    0.3727      2032
+          N2     0.8112    0.8774    0.8430      5826
+          N3     0.8622    0.8258    0.8436      2084
+         REM     0.8822    0.8968    0.8894      2189
+
+    accuracy                         0.8322     19283
+   macro avg     0.7814    0.7685    0.7724     19283
+weighted avg     0.8205    0.8322    0.8247     19283
+
+Confusion matrix:
+[[6604  407   65    6   70]
+ [ 604  648  665    5  110]
+ [ 100  269 5112  264   81]
+ [   1    0  361 1721    1]
+ [   6  121   99    0 1963]]
+
+    Accuracy	 0.8322356479800861
+ Cohen Kappa	 0.7696736778741066
+    F1-Score	 0.772357504166252 	Average = macro
+   Precision	 0.7813776127975972 	Average = macro
+      Recall	 0.7684587789344238 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8322	0.7724	0.7697	0.9130	0.3727	0.8430	0.8436	0.8894
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9028    0.9234    0.9130      7152
+          N1     0.4484    0.3189    0.3727      2032
+          N2     0.8112    0.8774    0.8430      5826
+          N3     0.8622    0.8258    0.8436      2084
+         REM     0.8822    0.8968    0.8894      2189
+
+    accuracy                         0.8322     19283
+   macro avg     0.7814    0.7685    0.7724     19283
+weighted avg     0.8205    0.8322    0.8247     19283
+
+Confusion matrix:
+[[6604  407   65    6   70]
+ [ 604  648  665    5  110]
+ [ 100  269 5112  264   81]
+ [   1    0  361 1721    1]
+ [   6  121   99    0 1963]]
+
+    Accuracy	 0.8322356479800861
+ Cohen Kappa	 0.7696736778741066
+    F1-Score	 0.772357504166252 	Average = macro
+   Precision	 0.7813776127975972 	Average = macro
+      Recall	 0.7684587789344238 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.7993	0.6829	0.7141	0.9049	0.3740	0.8480	0.4674	0.8203
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.8609    0.9538    0.9049      5430
+          N1     0.6147    0.2687    0.3740      2802
+          N2     0.7983    0.9044    0.8480      6886
+          N3     0.5069    0.4337    0.4674       505
+         REM     0.7953    0.8468    0.8203      2285
+
+    accuracy                         0.7993     17908
+   macro avg     0.7152    0.6815    0.6829     17908
+weighted avg     0.7799    0.7993    0.7768     17908
+
+Confusion matrix:
+[[5179  153   50    1   47]
+ [ 752  753 1084    0  213]
+ [  11  197 6228  212  238]
+ [   0    1  285  219    0]
+ [  74  121  155    0 1935]]
+
+    Accuracy	 0.7993075720348448
+ Cohen Kappa	 0.7140702687408018
+    F1-Score	 0.6829343936833944 	Average = macro
+   Precision	 0.7152161232967293 	Average = macro
+      Recall	 0.68148924756286 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.7993	0.6829	0.7141	0.9049	0.3740	0.8480	0.4674	0.8203
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.8609    0.9538    0.9049      5430
+          N1     0.6147    0.2687    0.3740      2802
+          N2     0.7983    0.9044    0.8480      6886
+          N3     0.5069    0.4337    0.4674       505
+         REM     0.7953    0.8468    0.8203      2285
+
+    accuracy                         0.7993     17908
+   macro avg     0.7152    0.6815    0.6829     17908
+weighted avg     0.7799    0.7993    0.7768     17908
+
+Confusion matrix:
+[[5179  153   50    1   47]
+ [ 752  753 1084    0  213]
+ [  11  197 6228  212  238]
+ [   0    1  285  219    0]
+ [  74  121  155    0 1935]]
+
+    Accuracy	 0.7993075720348448
+ Cohen Kappa	 0.7140702687408018
+    F1-Score	 0.6829343936833944 	Average = macro
+   Precision	 0.7152161232967293 	Average = macro
+      Recall	 0.68148924756286 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.7498	0.6555	0.6542	0.8987	0.3988	0.7867	0.5088	0.6842
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9004    0.8971    0.8987      7111
+          N1     0.4486    0.3589    0.3988      2786
+          N2     0.7343    0.8472    0.7867      6664
+          N3     0.4848    0.5353    0.5088      1104
+         REM     0.7711    0.6149    0.6842      2750
+
+    accuracy                         0.7498     20415
+   macro avg     0.6678    0.6507    0.6555     20415
+weighted avg     0.7446    0.7498    0.7440     20415
+
+Confusion matrix:
+[[6379  461  124   18  129]
+ [ 534 1000  965   95  192]
+ [  39  474 5646  325  180]
+ [   0    0  512  591    1]
+ [ 133  294  442  190 1691]]
+
+    Accuracy	 0.749791819740387
+ Cohen Kappa	 0.6542042407114831
+    F1-Score	 0.6554533208420543 	Average = macro
+   Precision	 0.6678387471845373 	Average = macro
+      Recall	 0.650694501973492 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.7498	0.6555	0.6542	0.8987	0.3988	0.7867	0.5088	0.6842
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9004    0.8971    0.8987      7111
+          N1     0.4486    0.3589    0.3988      2786
+          N2     0.7343    0.8472    0.7867      6664
+          N3     0.4848    0.5353    0.5088      1104
+         REM     0.7711    0.6149    0.6842      2750
+
+    accuracy                         0.7498     20415
+   macro avg     0.6678    0.6507    0.6555     20415
+weighted avg     0.7446    0.7498    0.7440     20415
+
+Confusion matrix:
+[[6379  461  124   18  129]
+ [ 534 1000  965   95  192]
+ [  39  474 5646  325  180]
+ [   0    0  512  591    1]
+ [ 133  294  442  190 1691]]
+
+    Accuracy	 0.749791819740387
+ Cohen Kappa	 0.6542042407114831
+    F1-Score	 0.6554533208420543 	Average = macro
+   Precision	 0.6678387471845373 	Average = macro
+      Recall	 0.650694501973492 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8212	0.7050	0.7293	0.9445	0.4308	0.8160	0.6347	0.6991
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9355    0.9537    0.9445     12194
+          N1     0.5654    0.3480    0.4308      3466
+          N2     0.7835    0.8514    0.8160      7314
+          N3     0.6720    0.6014    0.6347       562
+         REM     0.6292    0.7865    0.6991      2080
+
+    accuracy                         0.8212     25616
+   macro avg     0.7171    0.7082    0.7050     25616
+weighted avg     0.8114    0.8212    0.8116     25616
+
+Confusion matrix:
+[[11630   311   155     1    97]
+ [  698  1206  1126     5   431]
+ [   44   456  6227   159   428]
+ [    1     7   208   338     8]
+ [   59   153   232     0  1636]]
+
+    Accuracy	 0.8212445346658338
+ Cohen Kappa	 0.7293395461733714
+    F1-Score	 0.7050444191766232 	Average = macro
+   Precision	 0.717111280692016 	Average = macro
+      Recall	 0.7082084272665223 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8212	0.7050	0.7293	0.9445	0.4308	0.8160	0.6347	0.6991
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9355    0.9537    0.9445     12194
+          N1     0.5654    0.3480    0.4308      3466
+          N2     0.7835    0.8514    0.8160      7314
+          N3     0.6720    0.6014    0.6347       562
+         REM     0.6292    0.7865    0.6991      2080
+
+    accuracy                         0.8212     25616
+   macro avg     0.7171    0.7082    0.7050     25616
+weighted avg     0.8114    0.8212    0.8116     25616
+
+Confusion matrix:
+[[11630   311   155     1    97]
+ [  698  1206  1126     5   431]
+ [   44   456  6227   159   428]
+ [    1     7   208   338     8]
+ [   59   153   232     0  1636]]
+
+    Accuracy	 0.8212445346658338
+ Cohen Kappa	 0.7293395461733714
+    F1-Score	 0.7050444191766232 	Average = macro
+   Precision	 0.717111280692016 	Average = macro
+      Recall	 0.7082084272665223 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8190	0.7027	0.7202	0.9313	0.3458	0.8234	0.7613	0.6517
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9107    0.9528    0.9313     11554
+          N1     0.4755    0.2716    0.3458      2647
+          N2     0.7497    0.9130    0.8234      6428
+          N3     0.8154    0.7139    0.7613       699
+         REM     0.7920    0.5537    0.6517      2366
+
+    accuracy                         0.8190     23694
+   macro avg     0.7487    0.6810    0.7027     23694
+weighted avg     0.8038    0.8190    0.8037     23694
+
+Confusion matrix:
+[[11009   256   201     1    87]
+ [  734   719  1047     0   147]
+ [   99   238  5869   112   110]
+ [    0     3   197   499     0]
+ [  246   296   514     0  1310]]
+
+    Accuracy	 0.8190259137334346
+ Cohen Kappa	 0.7201715095216006
+    F1-Score	 0.7026859482725356 	Average = macro
+   Precision	 0.7486780706990208 	Average = macro
+      Recall	 0.681009844138816 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8190	0.7027	0.7202	0.9313	0.3458	0.8234	0.7613	0.6517
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9107    0.9528    0.9313     11554
+          N1     0.4755    0.2716    0.3458      2647
+          N2     0.7497    0.9130    0.8234      6428
+          N3     0.8154    0.7139    0.7613       699
+         REM     0.7920    0.5537    0.6517      2366
+
+    accuracy                         0.8190     23694
+   macro avg     0.7487    0.6810    0.7027     23694
+weighted avg     0.8038    0.8190    0.8037     23694
+
+Confusion matrix:
+[[11009   256   201     1    87]
+ [  734   719  1047     0   147]
+ [   99   238  5869   112   110]
+ [    0     3   197   499     0]
+ [  246   296   514     0  1310]]
+
+    Accuracy	 0.8190259137334346
+ Cohen Kappa	 0.7201715095216006
+    F1-Score	 0.7026859482725356 	Average = macro
+   Precision	 0.7486780706990208 	Average = macro
+      Recall	 0.681009844138816 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8224	0.7437	0.7515	0.9264	0.3739	0.8465	0.7803	0.7914
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9177    0.9352    0.9264     69824
+          N1     0.5001    0.2986    0.3739     21522
+          N2     0.8092    0.8873    0.8465     69132
+          N3     0.7957    0.7655    0.7803     13039
+         REM     0.7742    0.8093    0.7914     25835
+
+    accuracy                         0.8224    199352
+   macro avg     0.7594    0.7392    0.7437    199352
+weighted avg     0.8084    0.8224    0.8120    199352
+
+Confusion matrix:
+[[65297  2561  1005    48   913]
+ [ 4364  6427  7879   123  2729]
+ [  620  2528 61340  2198  2446]
+ [   21    19  3008  9981    10]
+ [  849  1317  2568   193 20908]]
+
+    Accuracy	 0.8224296721377262
+ Cohen Kappa	 0.7514762410681051
+    F1-Score	 0.7436887328308751 	Average = macro
+   Precision	 0.7593955771068075 	Average = macro
+      Recall	 0.7391681688780823 	Average = macro
+Acc	F1S	Kappa	F1_W	F1_N1	F1_N2	F1_N3	F1_R
+0.8224	0.7437	0.7515	0.9264	0.3739	0.8465	0.7803	0.7914
+
+Classification report:
+              precision    recall  f1-score   support
+
+        Wake     0.9177    0.9352    0.9264     69824
+          N1     0.5001    0.2986    0.3739     21522
+          N2     0.8092    0.8873    0.8465     69132
+          N3     0.7957    0.7655    0.7803     13039
+         REM     0.7742    0.8093    0.7914     25835
+
+    accuracy                         0.8224    199352
+   macro avg     0.7594    0.7392    0.7437    199352
+weighted avg     0.8084    0.8224    0.8120    199352
+
+Confusion matrix:
+[[65297  2561  1005    48   913]
+ [ 4364  6427  7879   123  2729]
+ [  620  2528 61340  2198  2446]
+ [   21    19  3008  9981    10]
+ [  849  1317  2568   193 20908]]
+
+    Accuracy	 0.8224296721377262
+ Cohen Kappa	 0.7514762410681051
+    F1-Score	 0.7436887328308751 	Average = macro
+   Precision	 0.7593955771068075 	Average = macro
+      Recall	 0.7391681688780823 	Average = macro
